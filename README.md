@@ -13,7 +13,7 @@ N/A
 
 ## Usage
 
-https://joseobm92.github.io/Password-Generator/
+    https://joseobm92.github.io/Password-Generator-JS/
 
 ![alt text](./Assets/_Users_elbarre_Documents_UCF_local-week-2_Challenge-week-2_Password-Generator_Develop_index.html%20(1).png)
 
